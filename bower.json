@@ -1,0 +1,22 @@
+{
+  "name": "cron-parser-js",
+  "description": "Javascript Library for parsing Cron Expression. Based on https://github.com/harrisiirak/cron-parser#readme library (See License)",
+  "main": "lib/parser.js",
+  "authors": [
+    "Mikael KUREK"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "cron",
+    "parser",
+    "javascript"
+  ],
+  "homepage": "https://github.com/intuiface/cron-parser-js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
