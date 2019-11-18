@@ -3,6 +3,11 @@ Javascript Library for parsing Cron Expression
 
 Based on https://github.com/harrisiirak/cron-parser#readme library  (See License)
 
+Changes : 
+- ES6 Code
+- Manage 'L' for last day of month
+- Minor Bug fix
+
 Setup
 ========
 ```bash
