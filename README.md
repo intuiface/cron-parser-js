@@ -4,7 +4,7 @@ Javascript Library for parsing Cron Expression
 Based on https://github.com/harrisiirak/cron-parser#readme library  (See License)
 
 Changes : 
-- ES6 Code
+- Ported form ES5 code to ES6 code
 - Manage 'L' for last day of month
 - Minor Bug fix
 
